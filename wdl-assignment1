@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Hometown</title>
+</head>
+<body style="background-image:url(https://cdn.pixabay.com/photo/2017/02/18/01/26/background-2076334_1280.jpg);">
+    <h1 align="center"><i>My hometown:Mumbai</i></h1>
+    <center><img src="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/06/mumbai-1591772538.jpg"  alt="Mumbai" width="60%" height="600" ></center>
+        <h4 align="center">DESCRIPTION:</h4>
+        <p  align="center">
+            Mumbai is the capital city of the Indian state of Maharashtra.
+             According to the United Nations, as of 2018, Mumbai is the most populous city in the country and the seventh-most populous city in the world with a population of roughly 20 million.
+             As per Indian government population census of 2011, Mumbai is the most populous city in India with an estimated city proper population of 12.5 million living under Municipal Corporation of Greater Mumbai.
+             Mumbai is the centre of the Mumbai Metropolitan Region, the sixth most populous metropolitan area in the world with a population of over 23 million.
+              Mumbai lies on the Konkan coast on the west coast of India and has a deep natural harbour. 
+              In 2008, Mumbai was named an alpha world city.[16][17] It has the highest number of millionaires and billionaires among all cities in India.
+              Mumbai is home to three UNESCO World Heritage Sites: the Elephanta Caves, Chhatrapati Shivaji Maharaj Terminus, and the city's distinctive ensemble of Victorian and Art Deco buildings.
+        <div style="margin-left:680px">
+            <h4>Famous places to visit:</h4>
+            <ul>
+                <li>1. Gateway of India</li>
+                <li>2. Sanjay Gandhi National Park</li>
+                <li>3. Red Carpet Wax Museum</li>
+                <li>4. Haji Ali Dargah</li>
+                <li>5. Elephanta Caves</li>
+                <li>6. Siddhivinayak Temple</li>
+                <li>7. Chhatrapati Shivaji Terminus (CST)</li>
+            </ul>
+        </div>
+        <nav style="margin-left:650px">
+            <p>To know more about Mumbai click <a href="https://en.wikipedia.org/wiki/Mumbai" target="_blank">here</a></p>
+        </nav>
+        <p align="center">Tell us the places you have visited in Mumbai!</p>
+        <form action="#" style="margin-left:570px">
+            <table id="form-table" border="3px" cellpadding="8px" cellspacing="4px">
+                <tr>
+                    <td>Name</td>
+                    <td><input type="text" name="fname" maxlength="50"></td>
+                </tr>
+                <tr>
+                    <td>Places you have visited</td>
+                    <td><textarea name="comments" cols="45" rows="5"></textarea></td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center"><input type="submit" name="Submit"></td>
+                </tr>
+            </table>
+        </form> 
+</body>
+</html>
